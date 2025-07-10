@@ -4,7 +4,7 @@ This is a simple TypeScript project designed as a starting point to get comforta
 
 The purpose of this project is to lay the foundation for future TypeScript projects by establishing a minimal yet functional structure, including a build system, type configuration, and script execution using `ts-node`.
 
-[Software Demo Video](https://www.loom.com/share/03d803e8a61c44468f875dbe583e1a15)
+[Software Demo Video](https://youtu.be/LaGqGIQi0jg)
 
 ---
 
